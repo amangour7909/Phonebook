@@ -67,7 +67,7 @@ onload = function () {
         alert("phone number already exist ");
       }
     } else {
-      alert("madharchod 10 anko ka no daal");
+      alert("Please type 10 digit phone number");
       return;
     }
     nameInput.value = "";
