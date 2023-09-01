@@ -24,5 +24,9 @@ Calling on clicking contact-
 Insert contacts in sorted order-
 ![Screenshot 2023-09-01 203644](https://github.com/amangour7909/Phonebook/assets/127648041/f1dd36d7-4e3a-4eb3-8ed7-59e35e354f99)
 
+Phone no validation-
+![Screenshot 2023-09-01 210322](https://github.com/amangour7909/Phonebook/assets/127648041/9a477562-5a50-4894-937c-63366f8dfd07)
+
+
 Duplicate phone number check-
 ![Screenshot 2023-09-01 203731](https://github.com/amangour7909/Phonebook/assets/127648041/15a2102a-7662-4e02-8bba-75322806f118)
